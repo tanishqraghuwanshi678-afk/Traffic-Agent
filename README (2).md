@@ -120,4 +120,4 @@ This mimics basic principles of **reinforcement learning**.
 
 ##  Author
 
-Samarth Gawande
+Tanishq Raghuwanshi
